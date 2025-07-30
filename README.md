@@ -1,6 +1,6 @@
 # knn-freedom-predictor
-**Utilized the World Happiness Dataset to build a K-Nearest Neighbors (KNN) regression model predicting “Freedom to make life choices” based on socioeconomic and perception-based features.
-**
+**Utilized the World Happiness Dataset to build a K-Nearest Neighbors (KNN) regression model predicting “Freedom to make life choices” based on socioeconomic and perception-based features.**
+
 ## Data Preprocessing & Feature Engineering:
 - Applied Winsorization to reduce the impact of outliers
 - Conducted feature scaling for this distance-scaled model to increase metrics 
